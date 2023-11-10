@@ -1,0 +1,8 @@
+Q: What did you like about this project?
+A: It allows me to practice my knowledge and understanding on Java.
+
+Q: What did you struggle with in this project?
+A: I have struggled in trying to understand what are the expected outcomes as well as the instructions provided in the README.doc as the methods to be implemented appeared to be repetitive for some parts.
+
+Q: What would make your experience with this assessment better?
+A: Perhaps, the timeline given to complete the assessment could be less packed considering the lack of experience as well as the instructions provided in the document.
